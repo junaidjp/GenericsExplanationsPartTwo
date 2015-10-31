@@ -9,6 +9,6 @@ public class DanishTest {
 		
 		
 		
-		System.out.println("THE day 31 practic it to GIT HUB");
+		System.out.println("October31 practic it to GIT HUB");
 	}
 }
